@@ -12,11 +12,11 @@ Except for the “furry tail dreams” logo all the designs have a border to enc
 Most of the logos possess adornments, these being leaves, flowers, sparkles and cat paws. These details help to further distinguish the design as its own unique brand and add to their attractiveness. 
 The main element which is incorporated into all the designs is the focus on a character which are designed to be cute, sparkly and appealing to the eye. And I shall take this all onboard when I start my sketches.
 Sources for logos: 
-Furry tail dreams: https://i.etsystatic.com/isla/618e12/33397676/isla_fullxfull.33397676_raiisgnb.jpg?version=0 
-Chelle online shop: https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/25731507/original/d685c63caf4b0e60be11f29ae58c8b2510d3c1a9/design-logo-with-cute-anime-mascot.png 
-Moru ears: https://i.etsystatic.com/isla/fba00d/41396921/isla_fullxfull.41396921_i9ut5eek.jpg?version=0 
-Oh Misty: https://mockup-api.teespring.com/v3/image/Fcqv-fTWoiMVx5b_XaiHzHT26hU/480/560.jpg 
-KTsnCo: https://cdn.shopify.com/s/files/1/0492/4706/0122/files/image0_360x.png?v=1600827345 
-Pastel neko crafts: https://i.etsystatic.com/isla/f2fbee/41382852/isla_280x280.41382852_qxkqxgr3.jpg?version=0 
+Furry tail dreams: https://i.etsystatic.com/isla/618e12/33397676/isla_fullxfull.33397676_raiisgnb.jpg?version=0  <br />
+Chelle online shop: https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/25731507/original/d685c63caf4b0e60be11f29ae58c8b2510d3c1a9/design-logo-with-cute-anime-mascot.png <br />
+Moru ears: https://i.etsystatic.com/isla/fba00d/41396921/isla_fullxfull.41396921_i9ut5eek.jpg?version=0  <br />
+Oh Misty: https://mockup-api.teespring.com/v3/image/Fcqv-fTWoiMVx5b_XaiHzHT26hU/480/560.jpg <br />
+KTsnCo: https://cdn.shopify.com/s/files/1/0492/4706/0122/files/image0_360x.png?v=1600827345 <br />
+Pastel neko crafts: https://i.etsystatic.com/isla/f2fbee/41382852/isla_280x280.41382852_qxkqxgr3.jpg?version=0 <br />
 
 
