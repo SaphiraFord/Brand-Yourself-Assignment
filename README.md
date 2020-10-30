@@ -5,11 +5,13 @@ I‘m going to be designing a logo for my future business (named Saphu Ears) in 
 <a href="https://imgur.com/w0V0fhj"><img src="https://i.imgur.com/w0V0fhj.png" title="source: imgur.com" /></a>
 
 I have created a collage of six logos that I really love the look of as part of my research of similar logos I want to do. Four of the designs “KTsnCo”, “Furry tail dreams”, “Pastel Neko Crafts” and “Moru Ears” are big businesses within the faux fur ear market. While the other two are similar yet unique and I wish to be inspired by them.  <br />
+
 These logos do not follow good practice in logo design as they all are very complex drawings with “KTsnCo” being the least complex. However, their intricacies are their selling point with most of the designs being very eye catching, unique and sparkly.   <br />
 
 In terms of scalability these designs could all be printed onto clothing, mugs, blankets etc. without an issue. And if there was one, they should possess the source file required to easily edit the images so that they can have different designs to ensure more versatility.   <br />
 
 All the logos possess light pastel qualities that are combined with dark lines or text which makes the logos pop out and makes them much more attractive and striking to the viewer.   <br />
+
 Except for the “furry tail dreams” logo all the designs have a border to encapsulate the logo, 4 of them being circles and the “OHMISTY” logo being a heart. This is a lovely effect as it adds a layer of order which confines the design to a space which can have the designers own spin played on it make the logo more noteworthy.   <br />
 
 Most of the logos possess adornments, these being leaves, flowers, sparkles and cat paws. These details help to further distinguish the design as its own unique brand and add to their attractiveness.  <br />
