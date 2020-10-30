@@ -54,9 +54,28 @@ Then I decided to design more of the character from sketch 11 in sketches 12 and
 
 <a href="https://imgur.com/fDoFCrO"><img src="https://i.imgur.com/fDoFCrO.jpg" title="source: imgur.com" /></a>
 
+After doing all of those designs I created a survey which featured my designs and created coloured vectored images of the 8 most popular ones which are shown below.
+
+<a href="https://gist.githubusercontent.com/SaphiraFord/72a03b73aaee10de33bf5a7b27cd64c7/raw/a14f6dbc4a0aab338a15a8fe64c52c23b3dfb44a/logo1.svg"><img src="https://gist.githubusercontent.com/SaphiraFord/72a03b73aaee10de33bf5a7b27cd64c7/raw/a14f6dbc4a0aab338a15a8fe64c52c23b3dfb44a/logo1.svg" title="source: gist.com" /></a>
 
 
+<a href="https://gist.githubusercontent.com/SaphiraFord/0e17610b9adaf192570d70884e2b24a8/raw/f910edfc63afeef9bab82c16d9de7fc7a828e991/logo2.svg"><img src="https://gist.githubusercontent.com/SaphiraFord/0e17610b9adaf192570d70884e2b24a8/raw/f910edfc63afeef9bab82c16d9de7fc7a828e991/logo2.svg" /></a>
 
+<a href="https://gist.githubusercontent.com/SaphiraFord/3fa09f26d75bc4e2ea963ded93bcb15f/raw/76ae69ea2ca35968c052da289d4da18b4eec6713/logo3.svg"><img src="https://gist.githubusercontent.com/SaphiraFord/3fa09f26d75bc4e2ea963ded93bcb15f/raw/76ae69ea2ca35968c052da289d4da18b4eec6713/logo3.svg" /></a>
+
+<a href="https://gist.githubusercontent.com/SaphiraFord/d648eeae3dde6d4a4540d2b868b1800c/raw/2047c595b4c364abab6c3440334c34c1d7a5b139/logo4.svg"><img src="https://gist.githubusercontent.com/SaphiraFord/d648eeae3dde6d4a4540d2b868b1800c/raw/2047c595b4c364abab6c3440334c34c1d7a5b139/logo4.svg" /></a>
+
+<a href="https://gist.githubusercontent.com/SaphiraFord/69a671b195244c5f77b2bd813e107461/raw/1b8ca572327a92cde68f995e46f002a0f4b7a743/logo5.svg"><img src="https://gist.githubusercontent.com/SaphiraFord/69a671b195244c5f77b2bd813e107461/raw/1b8ca572327a92cde68f995e46f002a0f4b7a743/logo5.svg" /></a>
+
+<a href="https://gist.githubusercontent.com/SaphiraFord/9bd842f299df3d75c762e58f5eba8db1/raw/1ddfe9ae5c76f5af124069fc88d847a190ac5354/logo6.svg"><img src="https://gist.githubusercontent.com/SaphiraFord/9bd842f299df3d75c762e58f5eba8db1/raw/1ddfe9ae5c76f5af124069fc88d847a190ac5354/logo6.svg" /></a>
+
+<a href="https://gist.githubusercontent.com/SaphiraFord/41b1f346517fc4665791efa9757886e5/raw/5c35ec5a59d93ac0e2326b7f4f0d777af1d73b16/logo7.svg"><img src="https://gist.githubusercontent.com/SaphiraFord/41b1f346517fc4665791efa9757886e5/raw/5c35ec5a59d93ac0e2326b7f4f0d777af1d73b16/logo7.svg" /></a>
+
+<a href="https://gist.githubusercontent.com/SaphiraFord/183ba83a6ef21de922ce6e108a374527/raw/89ca5df0bc39f18ab84df48a723fd85bcd98c2b1/logo8.svg"><img src="https://gist.githubusercontent.com/SaphiraFord/183ba83a6ef21de922ce6e108a374527/raw/89ca5df0bc39f18ab84df48a723fd85bcd98c2b1/logo8.svg" /></a>
+
+I used Adobe Illustrator to create those images and they turned out quite well, I then conducted another survey to see what the most popular coloured and vectorized logo would be and I made a black and white version of the winner. 
+
+<a href="https://gist.githubusercontent.com/SaphiraFord/e13c79cf42730a4122b38284928622da/raw/eea45fd504b61cfd89216bf6fd5f58abf97c99a6/logo5b&w.svg"><img src="https://gist.githubusercontent.com/SaphiraFord/e13c79cf42730a4122b38284928622da/raw/eea45fd504b61cfd89216bf6fd5f58abf97c99a6/logo5b&w.svg" /></a>
 
 
 
