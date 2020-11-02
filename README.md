@@ -77,6 +77,14 @@ I used Adobe Illustrator to create those images and they turned out quite well, 
 
 <a href="https://gist.githubusercontent.com/SaphiraFord/e13c79cf42730a4122b38284928622da/raw/eea45fd504b61cfd89216bf6fd5f58abf97c99a6/logo5b&w.svg"><img src="https://gist.githubusercontent.com/SaphiraFord/e13c79cf42730a4122b38284928622da/raw/eea45fd504b61cfd89216bf6fd5f58abf97c99a6/logo5b&w.svg" /></a>
 
+Then I had to create a landing page of a website which would include my logo. And so I created a vector image of a grid background which would go nicely with my chosen colour scheme of the winning logo. 
+
+<a href="https://gist.githubusercontent.com/SaphiraFord/285f967fbabe824a12f3813e574b9540/raw/9579d501956bf02ac98504b794091a8a300e488f/background.svg"><img src="https://gist.githubusercontent.com/SaphiraFord/285f967fbabe824a12f3813e574b9540/raw/9579d501956bf02ac98504b794091a8a300e488f/background.svg" /></a>
+
+I then picked out colours from my logo to create the landing page, placing the logo at the top centre of the page to highlight it. Although you cannot clearly see the text of the logo from a distance, I feel that it doesn't neccesarily matter as the cuteness of the logo is it's appeal and selling point. The website is designed to sell products, and I have included a picture of one of my created products to add to the authenicity of the page. 
+
+<a href="https://imgur.com/swY7i3c"><img src="https://i.imgur.com/swY7i3c.png" title="source: imgur.com" /></a>
+
 
 
 
