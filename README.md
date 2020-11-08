@@ -109,7 +109,7 @@ The first page is the cover and so it's more for aesthetics than anything else. 
 
 ![https://i.imgur.com/fOBbqE2.jpg](https://i.imgur.com/fOBbqE2.jpg)
 
-I laid out the colours and pattern within black circles so that users can easily see which colour is which. I have also used a more standard text type to display the colour values sot hat it can be more easily read. 
+I laid out the colours and pattern within black circles so that users can easily see which colour is which. I have also used a more standard text type to display the colour values  and how to correctly/incorrectly format the logo so that the information can be more easily read.  
 
 ![https://i.imgur.com/IvRkaFF.jpg](https://i.imgur.com/IvRkaFF.jpg)
 
@@ -120,3 +120,5 @@ I laid out the colours and pattern within black circles so that users can easily
 ![https://i.imgur.com/n6oq67v.jpg](https://i.imgur.com/n6oq67v.jpg)
 
 ![https://i.imgur.com/pvu977o.jpg](https://i.imgur.com/pvu977o.jpg)
+
+![https://i.imgur.com/FNceS9m.jpg](https://i.imgur.com/FNceS9m.jpg)
