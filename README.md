@@ -1,6 +1,10 @@
-# Brand-Yourself-Assignment - An assignment for Solent University.
+# Saphu Ears Brand Exercise
+
+<h2> Introduction </h2>
 
 I‘m going to be designing a logo for my future business (named Saphu Ears) in creating faux fur cat ears which is a niche market that I have found on the social media platform Instagram. I have studied the logos that businesses in this field use and they will majorly influence the design of my logo so that it is successful and will fit in to the market. I didn't want to do a generic logo that just used letters and basic shapes as within this market all of the most popular shops use a logo with a unique characters which makes it stand out as a brand. 
+
+<h2> Research </h2>
 
 <a href="https://imgur.com/w0V0fhj"><img src="https://i.imgur.com/w0V0fhj.png" title="source: imgur.com" /></a>
 
@@ -18,13 +22,7 @@ Most of the logos possess adornments, these being leaves, flowers, sparkles and 
 
 The main element which is incorporated into all the designs is the focus on a character which are designed to be cute, sparkly and appealing to the eye. And I have taken this all onboard when I started my sketches. <br />
 
-Sources for logos:  <br />
-Furry tail dreams: https://i.etsystatic.com/isla/618e12/33397676/isla_fullxfull.33397676_raiisgnb.jpg?version=0  <br />
-Chelle online shop: https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/25731507/original/d685c63caf4b0e60be11f29ae58c8b2510d3c1a9/design-logo-with-cute-anime-mascot.png <br />
-Moru ears: https://i.etsystatic.com/isla/fba00d/41396921/isla_fullxfull.41396921_i9ut5eek.jpg?version=0  <br />
-Oh Misty: https://mockup-api.teespring.com/v3/image/Fcqv-fTWoiMVx5b_XaiHzHT26hU/480/560.jpg <br />
-KTsnCo: https://cdn.shopify.com/s/files/1/0492/4706/0122/files/image0_360x.png?v=1600827345 <br />
-Pastel neko crafts: https://i.etsystatic.com/isla/f2fbee/41382852/isla_280x280.41382852_qxkqxgr3.jpg?version=0 <br />
+<h2> Preliminary Designs </h2>
 
 After creating my collage, I used my tablet to sketch out some designs on Photoshop while being inspired by my collage. Because I am designing a logo for cat ears, I included a cat as the character in each logo and I wanted to include the name of my business, so I did this for each one as well.
 
@@ -56,6 +54,8 @@ Then I decided to design more of the character from sketch 11 in sketches 12 and
 
 <a href="https://imgur.com/fDoFCrO"><img src="https://i.imgur.com/fDoFCrO.jpg" title="source: imgur.com" /></a>
 
+<h2> Advanced Designs </h2>
+
 After doing all of those designs I created a survey which featured my designs and created coloured vector images of the 8 most popular ones which are shown below. I did this process using illustrator, a program I was new to but I believe the designs managed to capture the feel I was looking for. I also bought life time access to a font called "sweet purple" which is cute, playful and gives off a handwritten feel. I felt like this corresponded with the designs I had created and the feel I was going for and looking at the following SVGs I am very proud of how they turned out. 
 
 <a href="https://gist.githubusercontent.com/SaphiraFord/72a03b73aaee10de33bf5a7b27cd64c7/raw/a14f6dbc4a0aab338a15a8fe64c52c23b3dfb44a/logo1.svg"><img src="https://gist.githubusercontent.com/SaphiraFord/72a03b73aaee10de33bf5a7b27cd64c7/raw/a14f6dbc4a0aab338a15a8fe64c52c23b3dfb44a/logo1.svg" title="source: gist.com" /></a>
@@ -75,9 +75,11 @@ After doing all of those designs I created a survey which featured my designs an
 
 <a href="https://gist.githubusercontent.com/SaphiraFord/183ba83a6ef21de922ce6e108a374527/raw/89ca5df0bc39f18ab84df48a723fd85bcd98c2b1/logo8.svg"><img src="https://gist.githubusercontent.com/SaphiraFord/183ba83a6ef21de922ce6e108a374527/raw/89ca5df0bc39f18ab84df48a723fd85bcd98c2b1/logo8.svg" /></a>
 
-After creating those images I then conducted another survey to see what the most popular vector logo would be and I made a black and white version of it. I had to remove various elements in order to format it to a black and white style such as all of the colours and elements such as the blush on the cheeks however, I believe it looks like a true professional design. 
+After creating those images I then conducted another survey to see what the most popular vector logo would be and I made a black and white version of it. I had to remove various elements in order to format it to a black and white style such as all of the colours and elements such as the blush on the cheeks to make it a professional design.
 
 <a href="https://gist.githubusercontent.com/SaphiraFord/e13c79cf42730a4122b38284928622da/raw/eea45fd504b61cfd89216bf6fd5f58abf97c99a6/logo5b&w.svg"><img src="https://gist.githubusercontent.com/SaphiraFord/e13c79cf42730a4122b38284928622da/raw/eea45fd504b61cfd89216bf6fd5f58abf97c99a6/logo5b&w.svg" /></a>
+
+<h2> Landing Page </h2>
 
 Then I had to create a landing page of a website which would include my logo. And so I created a vector image of a grid background which would go nicely with my chosen colour scheme of the winning logo. 
 
@@ -89,6 +91,8 @@ I then picked out colours from my logo to create the landing page, placing the l
 
 </a>
 
+<h2> Bussiness Card </h2>
+
 Next came the creation of my business card, for the front of the card I wished to incorporate the logo that I had created in a size big enough to see the name of the business within the ears as well as the grid pattern I had created before. I chose thee dark colour I had used for the outlines of my cat logo for the font to keep things consistent and easy to read. I also put The name of the business again, utilizing a special character of the font "sweet purple" to give it more charm and to make it stand out more. Information wise I gave email, website and telephone which is very standard business card wise. 
 
 ![](https://i.imgur.com/pidGXG2.jpg)
@@ -96,6 +100,8 @@ Next came the creation of my business card, for the front of the card I wished t
 For the back of the card I decided to keep it short and sweet, with the front of the card being the focus of the design. I kept the colour scheme of white, dark purple and the grid pattern and made a nice border effect which is very aesthetically pleasing. 
 
 ![https://i.imgur.com/eb00RE5.jpg](https://i.imgur.com/eb00RE5.jpg)
+
+<h2> Style Guide </h2>
 
 I then created a style guide which contents include: logo formats, colour pallet, typography, business card format, incorrect logo use and correct logo use. 
 
@@ -122,3 +128,13 @@ I laid out the colours and pattern within black circles so that users can easily
 ![https://i.imgur.com/pvu977o.jpg](https://i.imgur.com/pvu977o.jpg)
 
 ![https://i.imgur.com/FNceS9m.jpg](https://i.imgur.com/FNceS9m.jpg)
+
+<h2> Sources </h2>
+
+Sources for logos:  <br />
+Furry tail dreams: https://i.etsystatic.com/isla/618e12/33397676/isla_fullxfull.33397676_raiisgnb.jpg?version=0  <br />
+Chelle online shop: https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/25731507/original/d685c63caf4b0e60be11f29ae58c8b2510d3c1a9/design-logo-with-cute-anime-mascot.png <br />
+Moru ears: https://i.etsystatic.com/isla/fba00d/41396921/isla_fullxfull.41396921_i9ut5eek.jpg?version=0  <br />
+Oh Misty: https://mockup-api.teespring.com/v3/image/Fcqv-fTWoiMVx5b_XaiHzHT26hU/480/560.jpg <br />
+KTsnCo: https://cdn.shopify.com/s/files/1/0492/4706/0122/files/image0_360x.png?v=1600827345 <br />
+Pastel neko crafts: https://i.etsystatic.com/isla/f2fbee/41382852/isla_280x280.41382852_qxkqxgr3.jpg?version=0 <br />
