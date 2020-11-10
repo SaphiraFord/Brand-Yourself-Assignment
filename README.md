@@ -2,21 +2,21 @@
 
 <h2> Introduction </h2>
 
-I‘m going to be designing a logo for my future business (named Saphu Ears) in creating faux fur cat ears which is a niche market that I have found on the social media platform Instagram. I have studied the logos that businesses in this field use and they will majorly influence the design of my logo so that it is successful and will fit in to the market. I didn't want to do a generic logo that just used letters and basic shapes as within this market all of the most popular shops use a logo with a unique characters which makes it stand out as a brand. 
+I‘m going to be designing a logo for my future business (Saphu Ears) in creating faux fur cat ears which is a niche market that I have found on the social media platform Instagram. I have studied the logos that businesses in this field use and they will majorly influence the design of my logo so that it is successful and will fit in to the market. I didn't want to do a generic logo that just used letters and basic shapes as within this market all of the most popular shops use a logo with a unique character which makes them stand out.
 
 <h2> Research </h2>
 
 <a href="https://imgur.com/w0V0fhj"><img src="https://i.imgur.com/w0V0fhj.png" title="source: imgur.com" /></a>
 
-I have created a collage of six logos that I really love the look of as part of my research of similar logos I want to do. Four of the designs “KTsnCo”, “Furry tail dreams”, “Pastel Neko Crafts” and “Moru Ears” are big businesses within the faux fur ear market. While the other two are similar yet unique and I wish to be inspired by them.  <br />
+I have created a collage of six logos that I am really inspired by as part of my research. Four of the designs “KTsnCo”, “Furry tail dreams”, “Pastel Neko Crafts” and “Moru Ears” are big businesses within the faux fur ear market. While the other two are similar yet unique and I appreciate their designs.  <br />
 
-These logos do not follow good practice in logo design as they all are very complex drawings with “KTsnCo” being the least complex. However, their intricacies are their selling point with most of the designs being very eye catching, unique and sparkly.   <br />
+These logos do not follow traditional good practice in logo design as they all are very complex drawings with “KTsnCo” being the least complex. However, their intricacies are their selling point with the designs being very eye catching, unique and desirable.   <br />
 
-In terms of scalability these designs could all be printed onto clothing, mugs, blankets etc. without an issue. And if there was one, they should possess the source file required to easily edit the images so that they can have different designs to ensure more versatility.   <br />
+In terms of scalability all of these designs could all be printed onto clothing, mugs, blankets etc. without an issue. If scalability concerns were to arise, they could possibly possess the source file required to easily edit the images so that they can have different designs to ensure more versatility. These logos may also possess alternate versions which are solely black and white to promote any required versatility. <br />
 
-All the logos possess light pastel qualities that are combined with dark lines or text which makes the logos pop out and makes them much more attractive and striking to the viewer.   <br />
+All the logos possess light pastel qualities that are combined with dark lines or text which make the logos pop out and make them much more attractive and striking to viewers.   <br />
 
-Except for the “furry tail dreams” logo all the designs have a border to encapsulate the logo, 4 of them being circles and the “OHMISTY” logo being a heart. This is a lovely effect as it adds a layer of order which confines the design to a space which can have the designers own spin played on it make the logo more noteworthy.   <br />
+Aside from the “furry tail dreams” logo all the designs have a border to encapsulate the logo, 4 of them being circles and the “OHMISTY” logo being a heart. This is a lovely effect as it adds a layer of order which confines the design to a space which can have the designers own spin played on it make the logo more noteworthy.   <br />
 
 Most of the logos possess adornments, these being leaves, flowers, sparkles and cat paws. These details help to further distinguish the design as its own unique brand and add to their attractiveness.  <br />
 
@@ -24,19 +24,19 @@ The main element which is incorporated into all the designs is the focus on a ch
 
 <h2> Preliminary Designs </h2>
 
-After creating my collage, I used my tablet to sketch out some designs on Photoshop while being inspired by my collage. Because I am designing a logo for cat ears, I included a cat as the character in each logo and I wanted to include the name of my business, so I did this for each one as well.
+After creating my collage, I used my tablet to sketch out some designs on Photoshop while being inspired by my tablet. Because I am designing a logo for cat ears, I included a cat as the character in each logo and I wanted to include the name of my business, so I did this for each one as well.
 
 <a href="https://imgur.com/uLCnS4f"><img src="https://i.imgur.com/uLCnS4f.jpg" title="source: imgur.com" /></a>
 
-I wanted to also do some sketches on paper as I find that method easier to get ideas out. I really liked the third sketch with a “3” next to it on my above digital sketches. It was cute, simplistic and very much in the style that I was aiming for. So, I took inspiration from my third sketch and decided to develop the idea more which is shown in the sketches below. 
+I then did some sketches on paper as I find that method easier to get ideas out. I really liked the third sketch with a “3” next to it on my above digital sketches. It was cute, simplistic and very much in the style that I was aiming for. So, I took inspiration from my third sketch and decided to develop the idea more which is shown in the sketches below. 
 
 <a href="https://imgur.com/5LzTC3W"><img src="https://i.imgur.com/5LzTC3W.jpg" title="source: imgur.com" /></a> <a href="https://imgur.com/T16pVYe"><img src="https://i.imgur.com/T16pVYe.jpg" title="source: imgur.com" /></a> 
 
 <a href="https://imgur.com/qAeKCe0"><img src="https://i.imgur.com/qAeKCe0.jpg" title="source: imgur.com" /></a> <a href="https://imgur.com/guXNMV4"><img src="https://i.imgur.com/guXNMV4.jpg" title="source: imgur.com" /></a>
 
-In my first sketch (8) I took inspiration from the third sketch in my digital drawings, copying the rounded face, tufts of fur at the side of the face, big whiskers and the incorporation of a flower. I decided to use sakura flowers to accessorize the tail and like my third drawing I used a rounded border around the character. I took inspiration then from “Furry tail dreams” logo and made the ears have hearts on and drew sparkles and cute doodles on the face to make the design cuter and more appealing. I also made the eyes bigger and more like the “Chelle online shop” character logo as I felt like it would make the design stand out more and add to its charm. Overall, I felt like this design was very strong and I loved the character I had created and so I decided to develop it more within sketches 9, 10 and 11. In sketch 9 I decided that 8 looked a bit strange and complicated so I wanted to simplify it and draw attention to the cute face of my character. 
+In my first sketch (8) I took inspiration from the third sketch in my digital drawings, copying the rounded face, tufts of fur at the side of the face, big whiskers and the incorporation of a flower. I decided to use sakura flowers to accessorize the tail and like my third drawing I used a rounded border around the character. I took inspiration then from “furry tail dreams” logo and made the ears have hearts on and drew sparkles and cute doodles on the face to make the design cuter and more appealing. I also made the eyes bigger and more like the “Chelle online shop” character logo as I felt like it would make the design stand out more and add to its charm. Overall, I felt like this design was very strong and I loved the character I had created and so I decided to develop it more within sketches 9, 10 and 11. In sketch 9 I decided that 8 looked a bit strange and complicated so I wanted to simplify it and draw attention to the cute face of my character. 
 
-So, I kept the circle border design as I thought that looked nice and drew the face and front paws popping out of the created border. This technique was also used by “Chelle online shop” and “Moru Ears” and I believe it was every effective. I thought this sketch was nice but the text placement felt pretty odd and forced to me so in sketch 10 I came up with the idea of placing the text within the hearts of the ears which I thought was quite unique and effective. The most successful logos in the world tend to be simplistic so that is also why I decided in sketch 10 to only draw the face of my character instead of using a border. I also made one of the eyes closed to make it appear like it was winking to again add to the charm and cuteness of the character. I think sketch 10 worked well but I also felt like it was too generic, boring and would make my brand just blend into the background compared to other logos within the market. So, in sketch 11 I decided to do a drawing of the full body of my character like in sketch 8 but make the body smaller and accentuate the cute features of the character. I made the face smaller and more rounded; I closed both the eyes and made the mouth smaller and I made the tufts of fur bigger and more curved. I also bought back the idea of sakura flowers on the tail as used in sketch 8 and I think this is my strongest design. As it combines all the elements that I loved from my previous drawings.
+I decided to keep the circle border design as I thought that looked nice and drew the face and front paws popping out of the created border. This technique was also used by “Chelle online shop” and “Moru Ears” and I believe it was every effective. I thought this sketch was nice but the text placement felt very odd and forced, so in sketch 10 I came up with the idea of placing the text within the hearts of the ears which I thought was quite unique and effective. The most successful logos in the world tend to be simplistic so that is also why I decided in sketch 10 to only draw the face of my character instead of using a border. I also made one of the eyes closed to make it appear like it was winking to again add to the charm and cuteness of the character. I think sketch 10 worked well but I also felt like it was too generic, boring and would make my brand just blend into the background compared to other logos within the market. So, in sketch 11 I decided to do a drawing of the full body of my character like in sketch 8 but make the body smaller and accentuate the cute features of the character. I made the face smaller and more rounded; I closed both the eyes and made the mouth smaller and I made the tufts of fur bigger and more curved. I also bought back the idea of sakura flowers on the tail as used in sketch 8 and I think this is my strongest design. As it combines all the elements that I loved from my previous drawings.
 
 I then did some more digital sketches based off my favorite sketch (11). I also tried a new idea of making an anime character out of my cat character like “KTsnCo”, "Moru Ears", "Pastel Neko Crafts", "Chelle Online Shop" and "Oh Misty". 
 
@@ -93,7 +93,7 @@ I then picked out colours from my logo to create the landing page, placing the l
 
 <h2> Bussiness Card </h2>
 
-Next came the creation of my business card, for the front of the card I wished to incorporate the logo that I had created in a size big enough to see the name of the business within the ears as well as the grid pattern I had created before. I chose thee dark colour I had used for the outlines of my cat logo for the font to keep things consistent and easy to read. I also put The name of the business again, utilizing a special character of the font "sweet purple" to give it more charm and to make it stand out more. Information wise I gave email, website and telephone which is very standard business card wise. 
+Next came the creation of my business card, for the front of the card I wished to incorporate the logo that I had created in a size big enough to see the name of the business within the ears as well as the grid pattern I had created before. I chose thee dark colour I had used for the outlines of my cat logo for the font to keep things consistent and easy to read. I also put The name of the business again, utilizing a special character of the font "sweet purple" to give it more charm and to make it stand out more. Information-wise I gave email, website and telephone which is very standard business card-wise.
 
 ![](https://i.imgur.com/pidGXG2.jpg)
 
@@ -103,7 +103,7 @@ For the back of the card I decided to keep it short and sweet, with the front of
 
 <h2> Style Guide </h2>
 
-I then created a style guide which contents include: logo formats, colour pallet, typography, business card format, incorrect logo use and correct logo use. 
+I then created a style guide and it's contents include: logo formats, colour pallet, typography, business card format, incorrect logo use and correct logo use. 
 
 The first page is the cover and so it's more for aesthetics than anything else. Within the style guide I have tried to make it as consistent and professional as possible and so I have made use of the colour pallet within the guide for colours/patterns. 
 
@@ -125,9 +125,9 @@ I laid out the colours and pattern within black circles so that users can easily
 
 ![https://i.imgur.com/n6oq67v.jpg](https://i.imgur.com/n6oq67v.jpg)
 
-![https://i.imgur.com/pvu977o.jpg](https://i.imgur.com/pvu977o.jpg)
-
 ![https://i.imgur.com/FNceS9m.jpg](https://i.imgur.com/FNceS9m.jpg)
+
+![https://i.imgur.com/pvu977o.jpg](https://i.imgur.com/pvu977o.jpg)
 
 <h2> Sources </h2>
 
