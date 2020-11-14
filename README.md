@@ -129,6 +129,10 @@ I laid out the colours and pattern within black circles so that users can easily
 
 ![https://i.imgur.com/pvu977o.jpg](https://i.imgur.com/pvu977o.jpg)
 
+<h2> Promotional Video </h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fRiRoC_Qn9k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <h2> Sources </h2>
 
 Sources for logos:  <br />
